@@ -46,4 +46,4 @@ public class Main {
 //file này đc gọi là .gitignore là file thuần text
 //nó sẽ khác nhau content tùy vào IDE mình xài, ngôn ngữ lập trình mình xài
 //có 1 gã dev cực kì dễ thương, ;à, sẵng những file ứng với các IDE, NNLT rồi xin về xài
-//link: https"//gitignore.io
+//link: https://gitignore.io
