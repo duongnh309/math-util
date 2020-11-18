@@ -9,6 +9,6 @@ You will find most of popular math methods sych as: qprt(), getFactorial() in th
 * ...
 ### Connect me via :
 [Facebook](https://facebook.com/duongnh309)
-[Email] (mailto:parkunduong@gmail.com)
+[Email](mailto:parkunduong@gmail.com)
 
 #### © 2020 by Nguyen Huu Duong | FPT HCM
