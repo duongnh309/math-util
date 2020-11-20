@@ -10,11 +10,9 @@ You will find most of popular math methods sych as: qprt(), getFactorial() in th
 ### Connect me via :
 [Facebook](https://facebook.com/duongnh309)
 [Email](mailto:parkunduong@gmail.com)
-<<<<<<< HEAD
 
-=======
 ### Image
 ![LISA](https://kenh14cdn.com/thumb_w/640/2020/11/9/unnamed-160488869000950235872-crop-16048895092981840358609.jpg)
->>>>>>> 88e0bf1a67ef8d98ff9cd2c77f53f29c1a5115f0
+
 
 #### © 2020 by Nguyen Huu Duong | FPT HCM
