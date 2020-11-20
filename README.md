@@ -10,6 +10,6 @@ You will find most of popular math methods sych as: qprt(), getFactorial() in th
 ### Connect me via :
 [Facebook](https://facebook.com/duongnh309)
 [Email](mailto:parkunduong@gmail.com)
-![LISA](https://kenh14cdn.com/thumb_w/640/2020/11/9/unnamed-160488869000950235872-crop-16048895092981840358609.jpg)
+
 
 #### © 2020 by Nguyen Huu Duong | FPT HCM
